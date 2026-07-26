@@ -1,0 +1,1 @@
+# RA_BIM_STR
