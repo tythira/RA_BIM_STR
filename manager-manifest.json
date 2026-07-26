@@ -1,0 +1,52 @@
+{
+    "name":  "RA_BIM_STR",
+    "basePath":  "",
+    "packages":  [
+                     {
+                         "revit":  "2025",
+                         "version":  "1.0.5",
+                         "url":  "RA_BIM_STR_Revit2025.zip",
+                         "sizeBytes":  1974698,
+                         "sha256":  "38a701d418b3481cfc4c32992e68b593886490920b888ed77a6181bf62f161d4",
+                         "addinFile":  "RA_BIM_STR.addin",
+                         "installFolder":  "RA_BIM_STR"
+                     },
+                     {
+                         "revit":  "2026",
+                         "version":  "1.0.5",
+                         "url":  "RA_BIM_STR_Revit2026.zip",
+                         "sizeBytes":  1974698,
+                         "sha256":  "38a701d418b3481cfc4c32992e68b593886490920b888ed77a6181bf62f161d4",
+                         "addinFile":  "RA_BIM_STR.addin",
+                         "installFolder":  "RA_BIM_STR"
+                     },
+                     {
+                         "revit":  "2027",
+                         "version":  "5.2.2",
+                         "url":  "RA_BIM_STR_Revit2027.zip",
+                         "sizeBytes":  1975836,
+                         "sha256":  "099975330e9cf7ff7265c8cad8756c05c56cc9895cd3a04eba424d1810a78fca",
+                         "addinFile":  "RA_BIM_STR.addin",
+                         "installFolder":  "RA_BIM_STR",
+                         "releaseTitle":  "RA BIM 2027 v5.2.1",
+                         "releaseDate":  "2026-07-25",
+                         "releaseNotes":  [
+                                              "Fixed the temporary \"identical rebar in the same place\" warning during Column Profile refresh.",
+                                              "The fix suppresses only the transient duplicate-rebar warning while the incremental reconciler reuses/deletes candidate bars.",
+                                              "Unrelated warnings and all Revit errors remain visible.",
+                                              "Added Rebar Engine V2 Pro Max shared lifecycle for Beam, Column, Slab and Foundation.",
+                                              "Added native host-constraint locking and versioned host fingerprints for newly created reinforcement.",
+                                              "Upgraded Profile Map so Column geometry changes are detected like continuous Beam context changes.",
+                                              "Upgraded Refresh RB with non-destructive V2 audit and changed-host selection.",
+                                              "Preserved manually edited reinforcement and kept the automatic dynamic updater disabled.",
+                                              "Reorganized source folders by Architecture/Structure tab, numbered panel and numbered tool.",
+                                              "Added in-product Check Update for the OneDrive Stable release channel.",
+                                              "Added installed/latest version comparison and release notes in the update window.",
+                                              "Added SHA-256 package verification before installation.",
+                                              "Added a safe external installer that waits for Revit to close and rolls back on failure.",
+                                              "Updated About to show the installed product version and update channel."
+                                          ],
+                         "mandatory":  false
+                     }
+                 ]
+}
