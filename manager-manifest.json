@@ -4,28 +4,28 @@
     "packages":  [
                      {
                          "revit":  "2025",
-                         "version":  "1.0.5",
+                         "version":  "5.2.4",
                          "url":  "RA_BIM_STR_Revit2025.zip",
-                         "sizeBytes":  1974823,
-                         "sha256":  "9670de69b5bcede3ec73d15ee695121c63fc9886e915b6f2b20203480120794f",
+                         "sizeBytes":  1974403,
+                         "sha256":  "b0c0f21d1039b114efec43238910ee5512dc51f6758e688e2b52d3d1a6f55f36",
                          "addinFile":  "RA_BIM_STR.addin",
                          "installFolder":  "RA_BIM_STR"
                      },
                      {
                          "revit":  "2026",
-                         "version":  "1.0.5",
+                         "version":  "5.2.4",
                          "url":  "RA_BIM_STR_Revit2026.zip",
-                         "sizeBytes":  1974825,
-                         "sha256":  "b60c81867901607f5266bffe0abce2070df1b28a23d6e30d3273f5bc6f382530",
+                         "sizeBytes":  1974403,
+                         "sha256":  "833fadae3b0256b2db85656ab76434bb0fe854f254975c4f44f6f9430b60a4bf",
                          "addinFile":  "RA_BIM_STR.addin",
                          "installFolder":  "RA_BIM_STR"
                      },
                      {
                          "revit":  "2027",
-                         "version":  "5.2.3",
+                         "version":  "5.2.4",
                          "url":  "RA_BIM_STR_Revit2027.zip",
-                         "sizeBytes":  1975974,
-                         "sha256":  "25c1039f1c113d45f076b2a61a973d681aee596e8fad93bdbd17e8de0855eb27",
+                         "sizeBytes":  1975585,
+                         "sha256":  "0ff2e9c07429f7478e95bf7759229f1c637d0e321c270af0614c94d1ce09a9b2",
                          "addinFile":  "RA_BIM_STR.addin",
                          "installFolder":  "RA_BIM_STR",
                          "releaseTitle":  "RA BIM 2027 v5.2.1",
