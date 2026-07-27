@@ -1,4 +1,4 @@
-{
+﻿{
     "name":  "RA_BIM_STR",
     "basePath":  "",
     "packages":  [
@@ -7,7 +7,7 @@
                          "version":  "5.2.4",
                          "url":  "RA_BIM_STR_Revit2025.zip",
                          "sizeBytes":  1976599,
-                         "sha256":  "6f468c600c6c0711fa185b4cc0497799aa3b1c599cdf7b366d30c2e01febb55d",
+                         "sha256":  "d364957ffcaa977d284605d6f85bbc33de7139be9876e439041b30a1cf6f9243",
                          "addinFile":  "RA_BIM_STR.addin",
                          "installFolder":  "RA_BIM_STR"
                      },
@@ -16,7 +16,7 @@
                          "version":  "5.2.4",
                          "url":  "RA_BIM_STR_Revit2026.zip",
                          "sizeBytes":  1976612,
-                         "sha256":  "fef13869894bf82efbbc280be925da7d17a1718a83c403cc1d56dcead7855369",
+                         "sha256":  "9a8b475ed11f12df6059fc8dfce55656056575e3414a9f8a2d7c488aa791c3b4",
                          "addinFile":  "RA_BIM_STR.addin",
                          "installFolder":  "RA_BIM_STR"
                      },
@@ -25,7 +25,7 @@
                          "version":  "5.2.4",
                          "url":  "RA_BIM_STR_Revit2027.zip",
                          "sizeBytes":  1978121,
-                         "sha256":  "576e8f6d5ffea6e6dce68c67ca84f6e8a455f0f3230f129dd6dbcfb54b1fc5d6",
+                         "sha256":  "9a226e6e7e0042c2ed2548a417294d57511b11e493c95028d9adac6dc82efc7f",
                          "addinFile":  "RA_BIM_STR.addin",
                          "installFolder":  "RA_BIM_STR",
                          "releaseTitle":  "RA BIM 2027 v5.2.1",
