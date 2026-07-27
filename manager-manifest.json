@@ -22,10 +22,10 @@
                      },
                      {
                          "revit":  "2027",
-                         "version":  "5.2.2",
+                         "version":  "5.2.3",
                          "url":  "RA_BIM_STR_Revit2027.zip",
-                         "sizeBytes":  1975861,
-                         "sha256":  "0426dac7ab29841b1ba34066460f020755988b3a65aff902ee0b3f2db0612919",
+                         "sizeBytes":  1975864,
+                         "sha256":  "c8e8cc7cd9d8108bf3a97c84c19a078baa3b46d4f94464a5ccbf0c6e8b9b1c8d",
                          "addinFile":  "RA_BIM_STR.addin",
                          "installFolder":  "RA_BIM_STR",
                          "releaseTitle":  "RA BIM 2027 v5.2.1",
@@ -44,7 +44,8 @@
                                               "Added installed/latest version comparison and release notes in the update window.",
                                               "Added SHA-256 package verification before installation.",
                                               "Added a safe external installer that waits for Revit to close and rolls back on failure.",
-                                              "Updated About to show the installed product version and update channel."
+                                              "Updated About to show the installed product version and update channel.",
+                                              "Hidden Drawing and Quantity panels for testing."
                                           ],
                          "mandatory":  false
                      }
