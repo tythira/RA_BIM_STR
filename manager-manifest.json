@@ -4,31 +4,31 @@
     "packages":  [
                      {
                          "revit":  "2025",
-                         "version":  "5.2.33",
+                         "version":  "5.2.34",
                          "url":  "RA_BIM_STR_Revit2025.zip",
-                         "sizeBytes":  2222194,
-                         "sha256":  "85f4dd6625e9168dc0a615ffac793f0cb11c21abd58f36fb0a994e11cc329f5f",
+                         "sizeBytes":  2284336,
+                         "sha256":  "70a3fdd6aa47469cd35769cda9ec48a7ba2fc3b91fc4db1f4a7da5ad0808eb36",
                          "addinFile":  "RA_BIM_STR.addin",
                          "installFolder":  "RA BIM [STR]"
                      },
                      {
                          "revit":  "2026",
-                         "version":  "5.2.33",
+                         "version":  "5.2.34",
                          "url":  "RA_BIM_STR_Revit2026.zip",
-                         "sizeBytes":  2222202,
-                         "sha256":  "5091b405b76e403fe8a22bbf8dc75f61ccff6d8e4a1e398cc117ceb6b5e9aaa5",
+                         "sizeBytes":  2284351,
+                         "sha256":  "6fc5d2ad050c969b110b3e08b014804a76c0b56705caa8b2f57abb0ed6695477",
                          "addinFile":  "RA_BIM_STR.addin",
                          "installFolder":  "RA BIM [STR]"
                      },
                      {
                          "revit":  "2027",
-                         "version":  "5.2.33",
+                         "version":  "5.2.34",
                          "url":  "RA_BIM_STR_Revit2027.zip",
-                         "sizeBytes":  2223909,
-                         "sha256":  "93ca9b4c0e1dd00a5f6988b0ceb2b11718b8123ade7e91e6bad97d2a9c45cc08",
+                         "sizeBytes":  2285934,
+                         "sha256":  "cdcbc96579f77f3975bf98cb9851753e80c3a0aaee4ef99bfe905e650f6d63d0",
                          "addinFile":  "RA_BIM_STR.addin",
                          "installFolder":  "RA BIM [STR]",
-                         "releaseTitle":  "RA BIM 2027 v5.2.33",
+                         "releaseTitle":  "RA BIM 2027 v5.2.34",
                          "releaseDate":  "2026-08-06",
                          "releaseNotes":  [
                                               "Added a cooperative CANCEL button to the Rebar Map Create and Refresh progress window.",
